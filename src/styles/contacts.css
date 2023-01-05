@@ -1,0 +1,45 @@
+table {
+  color: gold;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+td {
+  font-size: 20px;
+}
+
+.btn {
+  width: 15%;
+}
+button:hover {
+  transform: scale(1.2);
+}
+button {
+  cursor: pointer;
+  margin: 3px;
+}
+input {
+  font-family: sans-serif;
+  color: black;
+  background-color: lightgrey;
+  width: 440px;
+}
+.updt {
+  cursor: pointer;
+  color: black;
+  background-color: gainsboro;
+}
+.dlt {
+  width: 70px;
+  background-color: red;
+}
+.edit {
+  width: 70px;
+  background-color: greenyellow;
+}
+.headings {
+  font-weight: 900;
+
+  color: yellow;
+}
